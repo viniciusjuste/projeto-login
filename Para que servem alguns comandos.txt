@@ -1,0 +1,4 @@
+    overflow: hidden; 
+Serve para esconder o que transborda
+
+o float consegue jogar a div para a esquerda ou para a direita

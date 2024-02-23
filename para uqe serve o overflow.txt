@@ -1,2 +1,0 @@
-    overflow: hidden; 
-Serve para esconder o que transborda
